@@ -1,0 +1,6 @@
+package j3;
+
+/* JADX INFO: loaded from: classes.dex */
+public interface l {
+    Object e(Object obj);
+}
